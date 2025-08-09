@@ -7,4 +7,4 @@ git-tutorial
 - topic 3
 
 - --------------
-git config --global user.name "lovely"
+- git config --global user.name "lovely"
