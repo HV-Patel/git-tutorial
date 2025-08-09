@@ -5,3 +5,6 @@ git-tutorial
 -- topic 2
 - ---------------
 - topic 3
+
+- --------------
+git config --global user.name "lovely"
